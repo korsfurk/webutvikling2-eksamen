@@ -11,3 +11,5 @@ namespace EksamenApi.Models{
 
     
 }
+
+// kommentar for å kunne pushe
